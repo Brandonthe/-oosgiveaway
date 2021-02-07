@@ -8,8 +8,8 @@
 * `reroll-giveaway` command
 * `end-giveaway` command
 
-<img src='./examples/start-cmd.png' style="width: 50%;"></img>
-<img src='./examples/giveaway.png' style="width: 50%;"></img>
+<img src='https://media.discordapp.net/attachments/787394928585080833/807854212405919754/unknown.png?width=358&height=186' style="width: 50%;"></img>
+<img src='https://media.discordapp.net/attachments/787394928585080833/807854502027591720/unknown.png?width=358&height=67' style="width: 50%;"></img>
 
 ## Install
 
